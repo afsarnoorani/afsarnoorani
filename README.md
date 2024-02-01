@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Afsar Noorani
 - 👀 I’m interested in Cloud Computing | BIG DATA | Devops
-- 🌱 I’m currently learning AWS|Linux|BigData|Hadoop|Cloudera|Spark|Kafka|Nifi|Devops[Git|Jenkins|Docker|Kubernetes|Terraform]
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AWS|Linux|BigData|Hadoop|Cloudera|Apache Spark|Kafka|Nifi|Devops[Git|Jenkins|Docker|Kubernetes|Terraform]
 - 📫 How to reach me @afsarnoorani@gmail.com
 - 😄 Pronouns: Rahber
-- ⚡ Fun fact: ...
 
 <!---
 afsarnoorani/afsarnoorani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
