@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Afsar Noorani**
-- 👀 I’m interested in **Cloud Computing | BIG DATA | Devops**
+- 👀 I’m interested in **Cloud Computing | BIG DATA | DevOps**
 - 🌱 I’m currently learning **AWS Cloud | Big Data | Linux | Hadoop | Cloudera | Apache Spark | Sqoop | Impala | Kafka | Nifi | DevOps CI/CD | Git | Jenkins | Docker | Kubernetes | Terraform**
 - 📫 How to reach me @afsarnoorani@gmail.com | www.LinkedIn.com/in/afsarnoorani
 - 😄 Pronouns: Rahber
